@@ -2,7 +2,8 @@
 
 ```
 Prerequisites:
-* Add ibm repository as "repo_ibm_origin". Example: `git remote add -f repo_ibm_origin https://github.com/username/repository.git`
+* Add ibm repository as "repo_ibm_origin".
+Example: `git remote add -f repo_ibm_origin https://github.com/username/repository.git`
 
 Parameters:
 * Target branch - pekao (dafault your current branch)
@@ -12,5 +13,5 @@ Parameters:
 
 Tagging:
 You should make the first tag to mark commit, from where you want commit messages to be counted.
-Example: git tag $(date '+%Y-%m-%d-%H-%M-%S') <commitId>
+Example: `git tag $(date '+%Y-%m-%d-%H-%M-%S') <commitId>`
 ```
