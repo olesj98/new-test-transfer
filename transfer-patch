@@ -1,0 +1,8 @@
+diff --git a/some-script.js b/some-script.js
+index 895609207c2c7e16e83df983488688540c90e79a..01451f4e437f25b0dd388969c02d9f050c4e479d 100644
+--- a/some-script.js
++++ b/some-script.js
+@@ -1,2 +1,2 @@
+ console.log('Hello GIT!');
+-console.log('Hello GIT1.15!');
++console.log('Hello GIT1.16!');
