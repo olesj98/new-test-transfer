@@ -14,4 +14,6 @@ Parameters:
 Tagging:
 You should make the first tag to mark commit, from where you want commit messages to be counted.
 Example: `git tag $(date '+%Y-%m-%d-%H-%M-%S') <commitId>`
+
+Attention: script should be added to gitignore on both branches
 ```
